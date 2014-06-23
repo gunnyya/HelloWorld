@@ -13,6 +13,7 @@ import android.os.Build;
 
 public class MainActivity extends Activity {
 
+	//some message first commit
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
